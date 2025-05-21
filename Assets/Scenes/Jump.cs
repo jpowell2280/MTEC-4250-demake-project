@@ -9,7 +9,7 @@ public class Jump : MonoBehaviour
 
     private Vector2 movement;
 
-    public float MoveSpeed = 5f;
+    public float MoveSpeed = 1f;
 
     public float JumpForce = 10f; //power of the jump
 
